@@ -6,4 +6,4 @@ A Deep Learning project titled “Automated Waste Detection and Classification S
 Dataset Link:  https://www.kaggle.com/datasets/parohod/warp-waste-recycling-plant-dataset
 
 ##### About Dataset
-The dataset WaRP (Waste Recycling Plant) includes labeled images of an industrial waste sorting plant. We have selected 28 recyclable waste categories. Objects in the dataset are divided into the following groups: plastic bottles of 17 categories (class name with the bottle- prefix), glass bottles of three types (the glass- prefix), card boards of two categories, detergents of four categories, canisters and cans. The -full postfix means that the bottle is filled with air, i.e. not flat.
+The dataset WaRP (Waste Recycling Plant) includes labeled images of an industrial waste sorting plant. I have selected 28 recyclable waste categories. Objects in the dataset are divided into the following groups: plastic bottles of 17 categories (class name with the bottle- prefix), glass bottles of three types (the glass- prefix), card boards of two categories, detergents of four categories, canisters and cans. The -full postfix means that the bottle is filled with air, i.e. not flat.
